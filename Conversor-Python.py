@@ -37,5 +37,5 @@ try:
 		os.system("cls")
 	os.system("pause")
 except:
-	print ("Erro!! Contate os administradores (Henrique ou Carolina)!!\n")
+	print ("Erro!! Contate os administradores!!\n")
 	os.system("pause")
